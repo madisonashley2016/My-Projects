@@ -1,4 +1,5 @@
 CPU Scheduling Simulator
+
 A simulation of how the CPU uses 4 different algorithms to schedule processes. 
 First Come First Serve, Round Robin, Shortest Remaining Time First, and Preemptive Priority with Aging. 
 
