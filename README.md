@@ -4,7 +4,7 @@ I am planning on using this as a way to categorize, save, and share everything t
 I will continuously be updating this repository. 
 
 ## Disclaimer
-All code that I upload here is meant to be an easy way to share my portfolio, and what I have been working on, and is not intended for any person to use or copy. Thank you. 
+All code that I upload here is meant to be an easy way to share my portfolio, and what I have been working on, and is not intended for any person to use or copy. I set it to public but I deleted the master branch in the hopes that it will not show up in searches. Thank you. 
 
 ## Contact me
 madisonashley2016@gmail.com or ammadison@coastal.edu
